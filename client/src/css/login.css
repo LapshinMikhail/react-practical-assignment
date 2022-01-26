@@ -1,0 +1,13 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top:5vh;
+}
+
+input,button {
+    margin: 2vh;
+}
+
+

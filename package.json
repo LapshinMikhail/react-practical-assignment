@@ -19,5 +19,7 @@
     "url": "https://github.com/serjio1905/interview_task/issues"
   },
   "homepage": "https://github.com/serjio1905/interview_task#readme",
-  "dependencies": {}
+  "dependencies": {
+    "redux-thunk": "^2.4.1"
+  }
 }

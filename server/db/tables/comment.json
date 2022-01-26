@@ -1,1 +1,1 @@
-[]
+[{"id":30,"text":"Matrix comment 1","postId":50,"username":"Vasya","likes":["aaa","Vasya"],"dislikes":[],"date":"1643142966300"},{"id":31,"text":"Vasya post 1 comment 1","postId":51,"username":"Vasya","likes":[],"dislikes":["Vasya"],"date":"1643145351017"},{"id":32,"text":"Comment 111","postId":50,"username":"Vasya","likes":[],"dislikes":[],"date":"1643149641777"},{"id":33,"text":"NIce Photo","postId":53,"username":"Vasya","likes":["Vasya"],"dislikes":[],"date":"1643152836862"}]
